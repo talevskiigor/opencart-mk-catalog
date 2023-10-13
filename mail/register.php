@@ -1,18 +1,18 @@
 <?php
 // Text
-$_['text_subject']        = '%s - Thank you for registering';
-$_['text_welcome']        = 'Welcome and thank you for registering at %s!';
-$_['text_login']          = 'Your account has now been created and you can log in by using your email address and password by visiting our website or at the following URL:';
-$_['text_approval']       = 'Your account must be approved before you can login. Once approved you can log in by using your email address and password by visiting our website or at the following URL:';
-$_['text_service']        = 'Upon logging in, you will be able to access other services including reviewing past orders, printing invoices and editing your account information.';
-$_['text_thanks']         = 'Thanks,';
-$_['text_new_customer']   = 'New customer';
-$_['text_signup']         = 'A new customer has signed up:';
-$_['text_customer_group'] = 'Customer Group:';
-$_['text_firstname']      = 'First Name:';
-$_['text_lastname']       = 'Last Name:';
-$_['text_email']          = 'E-Mail:';
-$_['text_telephone']      = 'Telephone:';
+$_['text_subject']        = '%s - Ви благодариме за регистрирањето';
+$_['text_welcome']        = 'Добредојдовте и Ви благодариме за регистрирањето на %s! онлајн продавницата';
+$_['text_login']          = 'Вашата сметка сега е креирана и можете да се најавите со користење на вашата е-адреса и лозинка преку посета на нашата веб-страница или на следнава URL адреса:';
+$_['text_approval']       = 'Вашата сметка мора да биде одобрена пред да може да се најавите. Откако ќе биде одобрена, можете да се најавите со користење на вашата е-адреса и лозинка преку посета на нашата веб-страница или на следнава URL адреса:. ';
+$_['text_service']        = 'По пријавувањето, ќе можете да пристапите до други услуги, вклучувајќи и прегледување на минатите нарачки, печатење профактури и уредување на информациите за вашата сметка.';
+$_['text_thanks']         = 'Ви Благодариме,';
+$_['text_new_customer']   = 'Нов клиент';
+$_['text_signup']         = 'Регистриран е нов корисник на веб страната.';
+$_['text_customer_group'] = 'Група на клиенти:';
+$_['text_firstname']      = 'Име:';
+$_['text_lastname']       = 'Презиме:';
+$_['text_email']          = 'Е-пошта:';
+$_['text_telephone']      = 'Телефон:';
 
 // Button
 $_['button_login']        = 'Login';

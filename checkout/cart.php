@@ -1,37 +1,37 @@
 <?php
 // Heading
-$_['heading_title']              = 'Shopping Cart';
+$_['heading_title']              = 'Кошничка';
 
 // Text
-$_['text_success']               = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
+$_['text_success']               = 'Успешно додадовте <a href="%s"> %s </a> во вашата <a href="%s">кошничка</a>!';
 $_['text_edit']                  = 'Success: You have modified your shopping cart!';
-$_['text_remove']                = 'Success: You have removed an item from your shopping cart!';
-$_['text_login']                 = 'Attention: You must <a href="%s">login</a> or <a href="%s">create an account</a> to view prices!';
+$_['text_remove']                = 'Успешно направивте промени во кошничката!';
+$_['text_login']                 = 'Внимание: Потребно е да се<a href="%s"> Логирате</a> или <a href="%s"> да креирате акаунт </a> за да ги видите цените!';
 $_['text_no_results']            = 'Your shopping cart is empty!';
-$_['text_next']                  = 'What would you like to do next?';
-$_['text_next_choice']           = 'Choose if you have a discount code or reward points you want to use or would like to estimate your delivery cost.';
-$_['text_points']                = 'Reward Points';
+$_['text_next']                  = 'Што би сакале да направите следно?';
+$_['text_next_choice']           = 'Изберете дали имате попуст код или бодови за награда што сакате да ги користите или сакате да ја процените вашата цена за испорака.';
+$_['text_points']                = 'Cashback Поени: %s';
 $_['text_subscription']          = 'Subscription';
 $_['text_subscription_trial']    = '%s every %d %s(s) for %d payment(s) then ';
 $_['text_subscription_duration'] = '%s every %d %s(s) for %d payment(s)';
 $_['text_subscription_cancel']   = '%s every %d %s(s) until canceled';
-$_['text_day']                   = 'day';
-$_['text_week']                  = 'week';
-$_['text_semi_month']            = 'half-month';
-$_['text_month']                 = 'month';
-$_['text_year']                  = 'year';
+$_['text_day']                   = 'ден';
+$_['text_week']                  = 'недела';
+$_['text_semi_month']            = 'половина месец';
+$_['text_month']                 = 'месец';
+$_['text_year']                  = 'година';
 
 // Column
-$_['column_image']               = 'Image';
-$_['column_name']                = 'Product Name';
-$_['column_model']               = 'Model';
-$_['column_quantity']            = 'Quantity';
-$_['column_price']               = 'Unit Price';
-$_['column_total']               = 'Total';
+$_['column_image']               = 'Слика';
+$_['column_name']                = 'Име на продукт';
+$_['column_model']               = 'Модел';
+$_['column_quantity']            = 'Количина';
+$_['column_price']               = 'Единечна цена';
+$_['column_total']               = 'Вкупно';
 
 // Error
-$_['error_stock']                = 'Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']              = 'Minimum order amount for %s is %s!';
-$_['error_required']             = '%s required!';
-$_['error_product']              = 'Warning: Product could not be found!';
+$_['error_stock']                = 'Производите обележани со *** не се достапни во саканата количина или не се на залиха во главниот магацин на Сетек! Доколку продолжите со нарачката и ја комплетирате, нашите вработени ќе ја проверат достапноста и состојбата на производот и во најбрз можен рок ќе ве исконтактираат за конфирмација на нарачката.';
+$_['error_minimum']              = 'Минимален износ на нарачката за %s е %s!';
+$_['error_required']             = 'Општите правила се задолжителни!';
+$_['error_product']              = 'Предупредување: Нема производи во вашата кошничка!';
 $_['error_subscription']         = 'Please select a subscription plan!';

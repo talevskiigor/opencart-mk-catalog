@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']      = 'Your Transactions';
+$_['heading_title']      = 'Вашите трансакции';
 
 // Column
-$_['column_date_added']  = 'Date Added';
-$_['column_description'] = 'Description';
-$_['column_amount']      = 'Amount (%s)';
+$_['column_date_added']  = 'Датум на додавање';
+$_['column_description'] = 'Опис';
+$_['column_amount']      = 'Износ (%s)';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_transaction']   = 'Your Transactions';
-$_['text_total']         = 'Your current balance is:';
-$_['text_no_results']    = 'You do not have any transactions!';
+$_['text_account']       = 'Сметка';
+$_['text_transaction']   = 'Вашите трансакции';
+$_['text_total']         = 'Вашата моментална состојба е:';
+$_['text_no_results']    = 'Немате трансакции!';

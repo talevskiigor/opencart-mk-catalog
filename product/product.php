@@ -1,38 +1,38 @@
 <?php
 // Text
-$_['text_search']                = 'Search';
-$_['text_brand']                 = 'Brand';
-$_['text_manufacturer']          = 'Brand:';
-$_['text_model']                 = 'Product Code:';
-$_['text_reward']                = 'Reward Points:';
-$_['text_points']                = 'Price in reward points:';
-$_['text_stock']                 = 'Availability:';
-$_['text_instock']               = 'In Stock';
-$_['text_tax']                   = 'Ex Tax:';
-$_['text_discount']              = ' or more ';
-$_['text_option']                = 'Available Options';
-$_['text_minimum']               = 'This product has a minimum quantity of %s';
-$_['text_reviews']               = '%s reviews';
-$_['text_write']                 = 'Write a review';
-$_['text_login']                 = 'Please <a href="%s">login</a> or <a href="%s">register</a> to review';
-$_['text_related']               = 'Related Products';
-$_['text_tags']                  = 'Tags:';
-$_['text_error']                 = 'Product not found!';
+$_['text_search']                = 'Пребарување';
+$_['text_brand']                 = 'Бренд:';
+$_['text_manufacturer']          = 'Бренд';
+$_['text_model']                 = 'Краток опис:';
+$_['text_reward']                = 'Cashback Поени:';
+$_['text_points']                = 'Поени:';
+$_['text_stock']                 = 'Достапност:';
+$_['text_instock']               = 'На залиха';
+$_['text_tax']                   = 'Редовна Цена';
+$_['text_discount']              = 'или повеќе';
+$_['text_option']                = '';
+$_['text_minimum']               = 'Овoj производ има минимaлен лагер %s';
+$_['text_reviews']               = '%s рецензии';
+$_['text_write']                 = 'Напиши коментар';
+$_['text_login']                 = 'Ве молиме <a href="%s"> Логирајте се </a> или <a href="%s"> Регистрирај се </a> за да поставите коментар.';
+$_['text_related']               = 'Можеби ќе Ве интересира';
+$_['text_tags']                  = 'Тагови:';
+$_['text_error']                 = 'Производот не е пронајден!';
 $_['text_subscription']          = 'Subscription';
 $_['text_subscription_trial']    = '%s every %d %s(s) for %d payment(s) then ';
 $_['text_subscription_duration'] = '%s every %d %s(s) for %d payment(s)';
 $_['text_subscription_cancel']   = '%s every %d %s(s) until canceled';
-$_['text_day']                   = 'day';
-$_['text_week']                  = 'week';
-$_['text_semi_month']            = 'half-month';
-$_['text_month']                 = 'month';
-$_['text_year']                  = 'year';
+$_['text_day']                   = 'ден';
+$_['text_week']                  = 'недела';
+$_['text_semi_month']            = 'половина месец';
+$_['text_month']                 = 'месец';
+$_['text_year']                  = 'година';
 
 // Entry
-$_['entry_qty']                  = 'Qty';
-$_['entry_rating']               = 'Rating';
+$_['entry_qty']                  = 'Количина';
+$_['entry_rating']               = 'Рејтинг';
 
 // Tabs
-$_['tab_description']            = 'Description';
-$_['tab_attribute']              = 'Specification';
-$_['tab_review']                 = 'Reviews (%s)';
+$_['tab_description']            = 'Опис';
+$_['tab_attribute']              = 'Спецификација';
+$_['tab_review']                 = 'Коментари (%s)';

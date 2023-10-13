@@ -1,14 +1,15 @@
 <?php
 // Heading
-$_['heading_title']      = 'Your Reward Points';
+$_['heading_title']      = 'Твоите поени за награда';
 
 // Column
-$_['column_date_added']  = 'Date Added';
-$_['column_description'] = 'Description';
-$_['column_points']      = 'Points';
+$_['column_date_added']  = 'Датум на додавање';
+$_['column_description'] = 'Опис';
+$_['column_points']      = 'Поени';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_reward']        = 'Reward Points';
-$_['text_total']         = 'Your total number of reward points is:';
-$_['text_no_results']    = 'You do not have any reward points!';
+$_['text_account']       = 'Сметка';
+$_['text_reward']        = 'Поени за награда';
+$_['text_total']         = 'Вашиот вкупен број на бодови е:';
+$_['text_no_results']    = 'Немате поени!'
+;

@@ -1,23 +1,23 @@
 <?php
 // Heading
-$_['heading_title']                = 'Account Login';
+$_['heading_title']                = 'Влез во сметката';
 
 // Text
-$_['text_account']                 = 'Account';
-$_['text_login']                   = 'Login';
-$_['text_new_customer']            = 'New Customer';
-$_['text_register']                = 'Register Account';
-$_['text_register_account']        = 'By creating an account you will be able to shop faster, be up to date on an order\'s status, and keep track of the orders you have previously made.';
-$_['text_returning_customer']      = 'Returning Customer';
-$_['text_i_am_returning_customer'] = 'I am a returning customer';
-$_['text_forgotten']               = 'Forgotten Password';
+$_['text_account']                 = 'Сметка';
+$_['text_login']                   = 'Логирај Се';
+$_['text_new_customer']            = 'Нов клиент';
+$_['text_register']                = 'Регистрирај сметка';
+$_['text_register_account']        = 'Со креирање на сметка ќе можете да пазарувате побрзо, бидете во тек со статусот на нарачката и следете ги нарачките што претходно сте ги направиле.';
+$_['text_returning_customer']      = 'Логирај се';
+$_['text_i_am_returning_customer'] = 'Јас сум клиент што веќе има акаунт';
+$_['text_forgotten']               = 'Заборавена лозинка';
 
 // Entry
-$_['entry_email']                  = 'E-Mail Address';
-$_['entry_password']               = 'Password';
+$_['entry_email']                  = 'Емаил адреса';
+$_['entry_password']               = 'Лозинка';
 
 // Error
-$_['error_token']                  = 'Warning: Invalid token session. Please login again!';
-$_['error_login']                  = 'Warning: No match for E-Mail Address and/or Password.';
-$_['error_attempts']               = 'Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.';
-$_['error_approved']               = 'Warning: Your account requires approval before you can login.';
+$_['error_token']                  = 'Предупредување: Не валидна сесија. Ве молиме најавете се повторно!';
+$_['error_login']                  = 'Предупредување: Не се совпаѓаат адресата за е-пошта и / или лозинка.';
+$_['error_attempts']               = 'Предупредување: Вашата сметка го надмина дозволениот број обиди за најава. Обидете се повторно за 1 час.';
+$_['error_approved']               = 'Предупредување: Вашата сметка бара одобрување пред да може да се најавите.';

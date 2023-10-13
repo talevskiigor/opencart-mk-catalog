@@ -1,26 +1,27 @@
 <?php
 // Heading
-$_['heading_title']  = 'Contact Us';
+$_['heading_title']  = 'Контактирајте не';
 
 // Text
-$_['text_location']  = 'Our Locations';
-$_['text_store']     = 'Our Stores';
-$_['text_contact']   = 'Contact Form';
-$_['text_address']   = 'Address';
-$_['text_telephone'] = 'Telephone';
-$_['text_open']      = 'Opening Times';
-$_['text_comment']   = 'Comments';
-$_['text_message']   = '<p>Your enquiry has been successfully sent to the store owner!</p>';
+$_['text_location']  = 'Нашата локација';
+$_['text_store']     = 'Нашите продавници';
+$_['text_contact']   = 'Контакт форма';
+$_['text_address']   = 'Адреса';
+$_['text_telephone'] = 'Телефон';
+$_['text_open']      = 'Време на отварање';
+$_['text_comment']   = 'Коментари';
+$_['text_message']   = ' <p> Вашето барање е успешно испратено до одговорните за онлајн продавницата! </p> 
+';
 
 // Entry
-$_['entry_name']     = 'Your Name';
-$_['entry_email']    = 'E-Mail Address';
-$_['entry_enquiry']  = 'Enquiry';
+$_['entry_name']     = 'Внесете го вашето име и презиме';
+$_['entry_email']    = 'Внесете ја вашата емаил адреса';
+$_['entry_enquiry']  = 'Внесете го вашето прашање или коментар';
 
 // Email
-$_['email_subject']  = 'Enquiry %s';
+$_['email_subject']  = 'Вашето прашање - %s';
 
 // Errors
-$_['error_name']     = 'Name must be between 3 and 32 characters!';
-$_['error_email']    = 'E-Mail Address does not appear to be valid!';
-$_['error_enquiry']  = 'Enquiry must be between 10 and 3000 characters!';
+$_['error_name']     = 'Името мора да биде помеѓу 3 и 32 карактери!';
+$_['error_email']    = 'Емаил адресата не e валидна!';
+$_['error_enquiry']  = 'Прашањето мора да биде помеѓу 10 и 3000 карактери!';

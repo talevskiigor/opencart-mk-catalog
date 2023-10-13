@@ -1,19 +1,19 @@
 <?php
 // Text
-$_['text_information']  = 'Information';
+$_['text_information']  = 'Информации';
 $_['text_blog']         = 'Blog';
-$_['text_service']      = 'Customer Service';
-$_['text_extra']        = 'Extras';
-$_['text_contact']      = 'Contact Us';
-$_['text_return']       = 'Returns';
-$_['text_sitemap']      = 'Site Map';
+$_['text_service']      = 'Услуги на клиентите';
+$_['text_extra']        = 'Бенефиции';
+$_['text_contact']      = 'Контактирајте не';
+$_['text_return']       = 'Се враќа';
+$_['text_sitemap']      = 'Мапа на сајтот';
 $_['text_gdpr']         = 'GDPR';
-$_['text_manufacturer'] = 'Brands';
-$_['text_voucher']      = 'Gift Certificates';
-$_['text_affiliate']    = 'Affiliate';
-$_['text_special']      = 'Specials';
-$_['text_account']      = 'My Account';
-$_['text_order']        = 'Order History';
-$_['text_wishlist']     = 'Wish List';
-$_['text_newsletter']   = 'Newsletter';
-$_['text_powered']      = 'Powered By <a href="https://www.opencart.com">OpenCart</a><br/> %s &copy; %s';
+$_['text_manufacturer'] = 'Бренд:';
+$_['text_voucher']      = 'Ваучери';
+$_['text_affiliate']    = 'Клиенти';
+$_['text_special']      = 'Акција';
+$_['text_account']      = 'Мојот акаунт';
+$_['text_order']        = 'Историја на нарачка';
+$_['text_wishlist']     = 'Листа на желби';
+$_['text_newsletter']   = 'Билтен';
+$_['text_powered']      = 'Поддржано од <a href="#"> Сетек се од техника </a>  <br /> %s &copy; %s';

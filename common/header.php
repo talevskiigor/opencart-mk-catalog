@@ -1,12 +1,12 @@
 <?php
 // Text
-$_['text_wishlist']      = 'Wish List (%s)';
-$_['text_shopping_cart'] = 'Shopping Cart';
-$_['text_account']       = 'My Account';
-$_['text_register']      = 'Register';
-$_['text_login']         = 'Login';
-$_['text_order']         = 'Order History';
-$_['text_transaction']   = 'Transactions';
-$_['text_download']      = 'Downloads';
-$_['text_logout']        = 'Logout';
-$_['text_checkout']      = 'Checkout';
+$_['text_wishlist']      = 'Листа на желби';
+$_['text_shopping_cart'] = 'Кошничка';
+$_['text_account']       = 'Моја сметка';
+$_['text_register']      = 'Регистрирај се';
+$_['text_login']         = 'Логирај Се';
+$_['text_order']         = 'Историја на нарачки';
+$_['text_transaction']   = 'Трансакции';
+$_['text_download']      = 'Превземања';
+$_['text_logout']        = 'Одјави се';
+$_['text_checkout']      = 'Најава';

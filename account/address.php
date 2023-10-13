@@ -1,40 +1,40 @@
 <?php
 // Heading
-$_['heading_title']      = 'Address Book';
+$_['heading_title']      = 'Адресар';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_address_book']  = 'Address Book Entries';
-$_['text_address_add']   = 'Add Address';
-$_['text_address_edit']  = 'Edit Address';
-$_['text_add']           = 'Your address has been successfully added';
-$_['text_edit']          = 'Your address has been successfully updated';
-$_['text_delete']        = 'Your address has been successfully deleted';
-$_['text_no_results']    = 'You have no addresses in your account.';
+$_['text_account']       = 'Сметка';
+$_['text_address_book']  = 'Записи за адресар';
+$_['text_address_add']   = 'Додај адреса';
+$_['text_address_edit']  = 'Изменете адреса';
+$_['text_add']           = 'Вашата адреса е успешно додадена';
+$_['text_edit']          = 'Вашата адреса е успешно изменета';
+$_['text_delete']        = 'Вашата адреса е успешно избришана';
+$_['text_no_results']    = 'Немате адреса на вашата сметка.';
 
 // Entry
-$_['entry_firstname']    = 'First Name';
-$_['entry_lastname']     = 'Last Name';
-$_['entry_company']      = 'Company';
-$_['entry_address_1']    = 'Address 1';
-$_['entry_address_2']    = 'Address 2';
-$_['entry_postcode']     = 'Post Code';
-$_['entry_city']         = 'City';
-$_['entry_country']      = 'Country';
-$_['entry_zone']         = 'Region / State';
-$_['entry_default']      = 'Default Address';
+$_['entry_firstname']    = 'Име';
+$_['entry_lastname']     = 'Презиме';
+$_['entry_company']      = 'Компанија';
+$_['entry_address_1']    = 'Адреса 1';
+$_['entry_address_2']    = 'Адреса 2';
+$_['entry_postcode']     = 'Поштенски код';
+$_['entry_city']         = 'Град';
+$_['entry_country']      = 'Земја';
+$_['entry_zone']         = 'Регион / држава';
+$_['entry_default']      = 'Стандардна адреса';
 
 // Error
-$_['error_token']        = 'Warning: Address token invalid!';
-$_['error_subscription'] = 'Warning: Address is still being used by %s active subscriptions!';
-$_['error_default']      = 'Warning: Default address required!';
-$_['error_delete']       = 'Warning: You must have at least one address!';
-$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
-$_['error_address_1']    = 'Address must be between 3 and 128 characters!';
-$_['error_postcode']     = 'Postcode must be between 2 and 10 characters!';
-$_['error_city']         = 'City must be between 2 and 128 characters!';
-$_['error_country']      = 'Please select a country!';
-$_['error_zone']         = 'Please select a region / state!';
-$_['error_custom_field'] = '%s required!';
-$_['error_regex']        = '%s is not a valid input!';
+$_['error_token']        = 'Предупредување: Не валиден токен за адреса!';
+$_['error_subscription'] = 'Предупредување: Адресата сеуште се користи од %s активни корисници!';
+$_['error_default']      = 'Предупредување: Не можете да ја избришете Вашата стандардна адреса!';
+$_['error_delete']       = 'Предупредување: Мора да имате барем една адреса!';
+$_['error_firstname']    = 'Името мора да биде помеѓу 1 и 32 карактери!';
+$_['error_lastname']     = 'Презимето мора да биде помеѓу 1 и 32 карактери!';
+$_['error_address_1']    = 'Адресата мора да биде помеѓу 3 и 128 карактери!';
+$_['error_postcode']     = 'Поштенски број мора да биде помеѓу 2 и 10 карактери!';
+$_['error_city']         = 'Градот мора да биде помеѓу 2 и 128 карактери!';
+$_['error_country']      = 'Изберете земја!';
+$_['error_zone']         = 'Изберете регион / држава!';
+$_['error_custom_field'] = '%s задолжително!';
+$_['error_regex']        = '%s не е валиден податок!';

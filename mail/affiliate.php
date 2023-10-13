@@ -1,20 +1,20 @@
 <?php
 // Text
-$_['text_subject']        = '%s - Affiliate Program';
-$_['text_welcome']        = 'Thank you for joining the %s Affiliate Program!';
-$_['text_login']          = 'Your account has now been created and you can log in by using your e-mail address and password by visiting our website or at the following URL:';
-$_['text_approval']       = 'Your account must be approved before you can login. Once approved you can log in by using your e-mail address and password by visiting our website or at the following URL:';
-$_['text_service']        = 'Upon logging in, you will be able to generate tracking codes, track commission payments and edit your account information.';
-$_['text_thanks']         = 'Thanks,';
-$_['text_new_affiliate']  = 'New Affiliate';
-$_['text_signup']         = 'A new affiliate has signed up:';
-$_['text_website']        = 'Web Site:';
-$_['text_customer_group'] = 'Customer Group:';
-$_['text_firstname']      = 'First Name:';
-$_['text_lastname']       = 'Last Name:';
-$_['text_company']        = 'Company:';
-$_['text_email']          = 'E-Mail:';
-$_['text_telephone']      = 'Telephone:';
+$_['text_subject']        = '%s - Програма';
+$_['text_welcome']        = 'Ви благодарам за приклучување на %s програмата!';
+$_['text_login']          = 'Вашата сметка сега е креирана и можете да се најавите со користење на вашата e-mail адреса и лозинка преку посета на нашата веб-страница или на следнава URL адреса:';
+$_['text_approval']       = 'Вашата сметка мора да биде одобрена пред да може да се најавите. Откако ќе биде одобрено, можете да се најавите со користење на вашата e-mail адреса и лозинка преку посета на нашата веб-страница или на следнава URL адреса:. ';
+$_['text_service']        = 'По пријавувањето, ќе можете да генерирате кодови, следете исплати за комисии и уредувате информации за вашата сметка.';
+$_['text_thanks']         = 'Ви Благодарам,';
+$_['text_new_affiliate']  = 'Нов придружник';
+$_['text_signup']         = 'Нов партнер се регистрира:';
+$_['text_website']        = 'Веб-страница:';
+$_['text_customer_group'] = 'Група на клиенти:';
+$_['text_firstname']      = 'Име:';
+$_['text_lastname']       = 'Презиме:';
+$_['text_company']        = 'Компанија:';
+$_['text_email']          = 'Е-пошта:';
+$_['text_telephone']      = 'Телефон:';
 
 // Button
 $_['button_login']        = 'Login';

@@ -1,10 +1,10 @@
 <?php
 // Text
-$_['text_subject']      = '%s - Order %s';
-$_['text_received']     = 'You have received an order.';
-$_['text_order_id']     = 'Order ID:';
-$_['text_date_added']   = 'Date Added:';
-$_['text_order_status'] = 'Order Status:';
-$_['text_product']      = 'Products:';
-$_['text_total']        = 'Totals:';
-$_['text_comment']      = 'The comments for your order are:';
+$_['text_subject']      = '%s - Налог бр. %s';
+$_['text_received']     = 'Нов налог.';
+$_['text_order_id']     = 'ID на нарачка:';
+$_['text_date_added']   = 'Датум на нарачка:';
+$_['text_order_status'] = 'Статус на нарачка:';
+$_['text_product']      = 'Производ/и';
+$_['text_total']        = 'Вкупно';
+$_['text_comment']      = 'Коментарите за вашата нарачка се:';

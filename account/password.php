@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title']  = 'Change Password';
+$_['heading_title']  = 'Промени ја лозинката';
 
 // Text
-$_['text_account']   = 'Account';
-$_['text_password']  = 'Your Password';
-$_['text_success']   = 'Success: Your password has been successfully updated.';
+$_['text_account']   = 'Сметка';
+$_['text_password']  = 'Вашата лозинка';
+$_['text_success']   = 'Вашата лозинка е успешно ажурирана.';
 
 // Entry
-$_['entry_password'] = 'Password';
-$_['entry_confirm']  = 'Password Confirm';
+$_['entry_password'] = 'Лозинка';
+$_['entry_confirm']  = 'Потврди Лозинка';
 
 // Error
-$_['error_token']    = 'Warning: Password token invalid!';
-$_['error_password'] = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']  = 'Password confirmation does not match password!';
+$_['error_token']    = 'Предупредување: Кодот за лозинка е не валиден!';
+$_['error_password'] = 'Лозинката мора да биде помеѓу 4 и 20 карактери!';
+$_['error_confirm']  = 'Потврдата за лозинка не се совпаѓа со лозинката!';

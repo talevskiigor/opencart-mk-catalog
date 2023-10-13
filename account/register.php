@@ -1,35 +1,36 @@
 <?php
 // Heading
-$_['heading_title']        = 'Register Account';
+$_['heading_title']        = 'Регистрирај сметка';
 
 // Text
-$_['text_account']         = 'Account';
-$_['text_register']        = 'Register';
-$_['text_account_already'] = 'If you already have an account with us, please login at the <a href="%s">login page</a>.';
-$_['text_your_details']    = 'Your Personal Details';
-$_['text_newsletter']      = 'Newsletter';
-$_['text_your_password']   = 'Your Password';
-$_['text_agree']           = 'I have read and agree to the <a href="%s" class="modal-link"><b>%s</b></a>';
+$_['text_account']         = 'Сметка';
+$_['text_register']        = 'Регистрирај се';
+$_['text_account_already'] = 'Ако веќе се имате регистрирано на нашата страна, ве молиме преминете на <a href="%s"> страната за најава</a>.';
+$_['text_your_details']    = 'Вашите лични детали';
+$_['text_newsletter']      = 'Билтен';
+$_['text_your_password']   = 'Вашата лозинка';
+$_['text_agree']           = 'Прочитав и се согласувам со <a href="%s" class="agree">  <b> %s </b>  </a> и <a href="https://setec.mk/index.php?route=information/information/agree&information_id=14" class="agree"> <b>Политика на приватност</b> </a>
+';
 
 // Entry
-$_['entry_customer_group'] = 'Customer Group';
-$_['entry_firstname']      = 'First Name';
-$_['entry_lastname']       = 'Last Name';
-$_['entry_email']          = 'E-Mail';
-$_['entry_telephone']      = 'Telephone';
-$_['entry_newsletter']     = 'Subscribe';
-$_['entry_password']       = 'Password';
-$_['entry_confirm']        = 'Password Confirm';
+$_['entry_customer_group'] = 'Група на клиенти';
+$_['entry_firstname']      = 'Име';
+$_['entry_lastname']       = 'Презиме';
+$_['entry_email']          = 'Емаил';
+$_['entry_telephone']      = 'Телефон';
+$_['entry_newsletter']     = 'Претплати се';
+$_['entry_password']       = 'Лозинка';
+$_['entry_confirm']        = 'Лозинка потврди';
 
 // Error
-$_['error_token']          = 'Warning: Register token invalid!';
-$_['error_exists']         = 'Warning: E-Mail Address is already registered!';
-$_['error_customer_group'] = 'Customer Group does not appear to be valid!';
-$_['error_firstname']      = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']       = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']          = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']      = 'Telephone must be between 3 and 32 characters!';
-$_['error_custom_field']   = '%s required!';
-$_['error_regex']          = '%s is not a valid input!';
-$_['error_password']       = 'Password must be between 4 and 20 characters!';
-$_['error_agree']          = 'Warning: You must agree to the %s!';
+$_['error_token']          = 'Грешка: Токенот за регистрација не е валиден!';
+$_['error_exists']         = 'Предупредување: Е-пошта е веќе регистрирана!';
+$_['error_customer_group'] = 'Корисничката група не е валидна!';
+$_['error_firstname']      = 'Името мора да биде помеѓу 1 и 32 карактери!';
+$_['error_lastname']       = 'Презимето мора да биде помеѓу 1 и 32 карактери!';
+$_['error_email']          = 'Емаил адресата не е валидна!';
+$_['error_telephone']      = 'Телефон мора да биде помеѓу 3 и 32 карактери!';
+$_['error_custom_field']   = '%s задолжително!';
+$_['error_regex']          = '%s не валиден податок!';
+$_['error_password']       = 'Лозинката мора да биде помеѓу 4 и 20 карактери!';
+$_['error_agree']          = 'Предупредување: Мора да се согласите со %s!';

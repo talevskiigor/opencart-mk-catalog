@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title']    = 'Site Map';
+$_['heading_title']    = 'Мапа на сајтот';
 
 // Text
-$_['text_special']     = 'Special Offers';
-$_['text_account']     = 'My Account';
-$_['text_edit']        = 'Account Information';
-$_['text_password']    = 'Password';
-$_['text_address']     = 'Address Book';
-$_['text_history']     = 'Order History';
-$_['text_download']    = 'Downloads';
-$_['text_cart']        = 'Shopping Cart';
-$_['text_checkout']    = 'Checkout';
-$_['text_search']      = 'Search';
-$_['text_information'] = 'Information';
-$_['text_contact']     = 'Contact Us';
+$_['text_special']     = 'Специјални понуди';
+$_['text_account']     = 'Мојот акаунт';
+$_['text_edit']        = 'Информации за сметката';
+$_['text_password']    = 'Лозинка';
+$_['text_address']     = 'Адресар';
+$_['text_history']     = 'Историја на нарачка';
+$_['text_download']    = 'Превземања';
+$_['text_cart']        = 'Кошничка';
+$_['text_checkout']    = 'Најава';
+$_['text_search']      = 'Пребарување';
+$_['text_information'] = 'Информации';
+$_['text_contact']     = 'Контактирајте не';

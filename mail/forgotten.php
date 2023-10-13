@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_subject']  = '%s - Password reset request';
-$_['text_greeting'] = 'A new password was requested for %s customer account.';
-$_['text_change']   = 'To reset your password click on the link below:';
-$_['text_ip']       = 'The IP used to make this request was:';
+$_['text_subject']  = '%s - Ресетирај барање за лозинка';
+$_['text_greeting'] = 'Новата лозинка е потребна за %s сметката на клиентот.';
+$_['text_change']   = 'За да ја ресетирате лозинката кликнете на линкот подолу:';
+$_['text_ip']       = 'IP користена за да се направи ова барање беше:';
 
 // Button
 $_['button_reset']  = 'Reset Password';

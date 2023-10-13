@@ -1,23 +1,23 @@
 <?php
 // Heading
-$_['heading_title']   = 'My Wishlist';
+$_['heading_title']   = 'Листа на желби';
 
 // Text
-$_['text_account']    = 'Account';
-$_['text_instock']    = 'In Stock';
-$_['text_wishlist']   = 'Wish List (%s)';
-$_['text_login']      = 'You must <a href="%s">login</a> or <a href="%s">create an account</a> to save <a href="%s">%s</a> to your <a href="%s">wish list</a>!';
-$_['text_success']    = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">wish list</a>!';
-$_['text_remove']     = 'Success: You have removed an item from your wishlist';
-$_['text_no_results'] = 'Your wish list is empty.';
+$_['text_account']    = 'Сметка';
+$_['text_instock']    = 'На залиха';
+$_['text_wishlist']   = 'Листа на желби (%s)';
+$_['text_login']      = 'Морате да се<a href="%s"> Логирате </a> или да <a href="%s"> Креирате сметка </a> за да ги зачувате <a href="%s"> %s </a> во вашата <a href="%s"> листа на желби </a> !';
+$_['text_success']    = 'Успешно додадовте <a href="%s"> %s </a> во вашата <a href="%s"> листа на желби </a> !';
+$_['text_remove']     = 'Успешно ја променивте листата на желби!';
+$_['text_no_results'] = 'Листата на желби е празна.';
 
 // Column
-$_['column_image']    = 'Image';
-$_['column_name']     = 'Product Name';
-$_['column_model']    = 'Model';
-$_['column_stock']    = 'Stock';
-$_['column_price']    = 'Unit Price';
-$_['column_action']   = 'Action';
+$_['column_image']    = 'Слика';
+$_['column_name']     = 'Име на продукт';
+$_['column_model']    = 'Модел';
+$_['column_stock']    = 'Лагер';
+$_['column_price']    = 'Цена';
+$_['column_action']   = 'Што сакате да направите?';
 
 // Error
-$_['error_product']   = 'Warning: Product could not be found!';
+$_['error_product']   = 'Грешка: Продуктор не е пронајден!';
