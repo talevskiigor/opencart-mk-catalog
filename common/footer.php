@@ -16,4 +16,4 @@ $_['text_account']      = 'Мојот акаунт';
 $_['text_order']        = 'Историја на нарачка';
 $_['text_wishlist']     = 'Листа на желби';
 $_['text_newsletter']   = 'Билтен';
-$_['text_powered']      = 'Поддржано од <a href="#"> Сетек се од техника </a>  <br /> %s &copy; %s';
+$_['text_powered']      = 'Поддржано од <a href="https://www.forkids.mk"> ForKids се за деца </a>  <br /> %s &copy; %s';

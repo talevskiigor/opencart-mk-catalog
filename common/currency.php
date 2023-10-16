@@ -1,3 +1,3 @@
 <?php
 // Text
-$_['text_currency'] = 'Валута';
+$_['text_currency'] = 'МКД';
